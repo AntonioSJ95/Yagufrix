@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @Yagufrix
-- 👀 I’m interested in Game Development, Game Design, Web Design and Web Development
+- 👀 I’m interested in Game Development using Unity 3D
+- Also, I'm interested in web development
+- Feel free to see some of the proyects that I have in this GitHub
+- Contact: antonoseinjagou95@gmail.com
